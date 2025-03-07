@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on title of website</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://jvvj555.github.io/posts/</link>
     <description>Recent content in Posts on title of website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 19:46:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jvvj555.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aaaaaaaaaaaaaaaaaaaaaaaa</title>
-      <link>http://localhost:1313/posts/aaaaaaaaaaaaaaaaaaaaaaaa/</link>
+      <link>https://jvvj555.github.io/posts/aaaaaaaaaaaaaaaaaaaaaaaa/</link>
       <pubDate>Fri, 28 Feb 2025 19:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/aaaaaaaaaaaaaaaaaaaaaaaa/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pic.jpg&#34; alt=&#34;&#34;&gt;&#xA;[](/pic.jpg)&lt;/p&gt;</description>
+      <guid>https://jvvj555.github.io/posts/aaaaaaaaaaaaaaaaaaaaaaaa/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jvvj555.github.io/pic.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;declare a=1&#xA;echo &amp;#34;$a&amp;#34;&#xA;exit&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>puslap</title>
-      <link>http://localhost:1313/posts/puslap/</link>
+      <link>https://jvvj555.github.io/posts/puslap/</link>
       <pubDate>Thu, 27 Feb 2025 21:50:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/puslap/</guid>
+      <guid>https://jvvj555.github.io/posts/puslap/</guid>
       <description>&lt;p&gt;ddsdsddfdssd&lt;/p&gt;</description>
     </item>
   </channel>
